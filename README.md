@@ -55,7 +55,7 @@ This project demonstrates real-world Flutter app architecture, UI/UX design, and
 
 ### Latest Release: **v1.0.0**
 👉 **Download APK:**  
-https://github.com/yourusername/gameshub/releases/download/v1.0.0/app-release.apk
+https://github.com/Kshitij9137/Games-Hub/releases/download/v1.0.0/app-release.apk
 
 ### Installation Steps
 1. Download the APK from the link above  
