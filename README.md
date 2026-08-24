@@ -77,7 +77,7 @@ https://github.com/Kshitij9137/Games-Hub/releases/download/v1.0.0/app-release.ap
 ### Setup Instructions
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/gameshub.git
+git clone https://github.com/Kshitij9137/Games-Hub
 
 # Navigate to project directory
 cd gameshub
